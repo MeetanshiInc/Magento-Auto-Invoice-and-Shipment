@@ -16,4 +16,7 @@ A time-saver module, Magento Auto Invoice & Shipment is a must-have extension fo
 * Instant invoices encourage customers to trust your store.
 * Improved customer experience
 
-For more information, visit [https://meetanshi.com/magento-auto-invoice-and-shipment.html](https://meetanshi.com/magento-auto-invoice-and-shipment.html)
+For more information, visit ***[https://meetanshi.com/magento-auto-invoice-and-shipment.html](https://meetanshi.com/magento-auto-invoice-and-shipment.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento/auto-invoice-shipment/](https://meetanshi.com/docs/magento/auto-invoice-shipment/)***
